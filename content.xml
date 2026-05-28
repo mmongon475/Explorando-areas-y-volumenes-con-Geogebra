@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605281946177DI369</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026052819461703HYJF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Explorando áreas y volúmenes de poliedros con Geogebra</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>2º de ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Manuel Jesús Montero González - Profesor de Matemáticas de Secundaria </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se centra en la introducción de la geometría espacial en 2º de ESO, concretamente en el cálculo de áreas y volúmenes de poliedros. Se abordará desde un enfoque práctico y visual mediante el uso de herramientas digitales como Geogebra.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779990348041</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779814810104-0ayu8wji2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779814810104-0ayu8wji2</odePageId>
+      <odeBlockId>block-1779814810104-c4b3wbwe2</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779814810104-0ayu8wji2</odePageId>
+          <odeBlockId>block-1779814810104-c4b3wbwe2</odeBlockId>
+          <odeIdeviceId>idevice-1779814810105-2tqv6bdun</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 225px;">
+<div class="figcaption header"><strong>Áreas y volúmenes</strong></div>
+<img src="{{context_path}}/content/resources/Imagen1.jpeg" title="Áreas y volúmenes de poliedros y cuerpos de revolución" width="225" height="225" alt="Cuerpos geométricos" />
+<figcaption class="figcaption"><span class="author">danielarom0110</span>. <a href="geogebra.org/m/X7gjrEfR" class="title" target="_blank" rel="noopener"><em>Cuerpos geométricos</em></a></figcaption>
+</figure>
+<h1 style="text-align: justify;">Formas geométricas</h1>
+<p style="text-align: justify;">¿Os habéis parado a pensar <strong>cuántas</strong> formas geométricas nos rodean en nuestra vida diaria? Envases, edificios, depósitos, dados o latas están formados por <strong>figuras tridimensionales</strong> que utilizamos constantemente. En esta situación de aprendizaje descubriremos cómo las Matemáticas nos ayudan a comprender y analizar estos objetos a través del estudio de los poliedros y los cuerpos de revolución.</p>
+<p style="text-align: justify;"><br /></p>
+<h2 style="text-align: justify;">Actividades</h2>
+<p style="text-align: justify;">A lo largo de las diferentes sesiones y actividades aprenderemos a <strong>identificar</strong> y <strong>clasificar</strong> cuerpos geométricos, calcular sus <strong>áreas</strong> y <strong>volúmenes</strong> y utilizar herramientas digitales para representarlos y estudiarlos. Para ello trabajaremos con <strong>GeoGebra</strong>, una aplicación matemática que nos permitirá construir figuras en 3D, experimentar con ellas y comprobar nuestros cálculos de manera visual e interactiva.</p>
+<p style="text-align: justify;"><br /></p>
+<h2 style="text-align: justify;">Producto final</h2>
+<p style="text-align: justify;">Resolveréis problemas relacionados con situaciones reales y crearéis vuestro propio <strong>diseño geométrico</strong>, que presentaréis mediante una presentación digital utilizando la herramienta de <strong>Genially</strong>. De esta forma, desarrollaréis no solo vuestros conocimientos matemáticos, sino también vuestra creatividad, vuestra competencia digital y vuestra capacidad para comunicar ideas de forma clara y visual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779814810105-2tqv6bdun","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 225px;\">\n<div class=\"figcaption header\"><strong>Áreas y volúmenes</strong></div>\n<img src=\"{{context_path}}/content/resources/Imagen1.jpeg\" title=\"Áreas y volúmenes de poliedros y cuerpos de revolución\" width=\"225\" height=\"225\" alt=\"Cuerpos geométricos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">danielarom0110</span>. <a href=\"geogebra.org/m/X7gjrEfR\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Cuerpos geométricos</em></a></figcaption>\n</figure>\n<h1 style=\"text-align: justify;\">Formas geométricas</h1>\n<p style=\"text-align: justify;\">¿Os habéis parado a pensar <strong>cuántas</strong> formas geométricas nos rodean en nuestra vida diaria? Envases, edificios, depósitos, dados o latas están formados por <strong>figuras tridimensionales</strong> que utilizamos constantemente. En esta situación de aprendizaje descubriremos cómo las Matemáticas nos ayudan a comprender y analizar estos objetos a través del estudio de los poliedros y los cuerpos de revolución.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<h2 style=\"text-align: justify;\">Actividades</h2>\n<p style=\"text-align: justify;\">A lo largo de las diferentes sesiones y actividades aprenderemos a <strong>identificar</strong> y <strong>clasificar</strong> cuerpos geométricos, calcular sus <strong>áreas</strong> y <strong>volúmenes</strong> y utilizar herramientas digitales para representarlos y estudiarlos. Para ello trabajaremos con <strong>GeoGebra</strong>, una aplicación matemática que nos permitirá construir figuras en 3D, experimentar con ellas y comprobar nuestros cálculos de manera visual e interactiva.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<h2 style=\"text-align: justify;\">Producto final</h2>\n<p style=\"text-align: justify;\">Resolveréis problemas relacionados con situaciones reales y crearéis vuestro propio <strong>diseño geométrico</strong>, que presentaréis mediante una presentación digital utilizando la herramienta de <strong>Genially</strong>. De esta forma, desarrollaréis no solo vuestros conocimientos matemáticos, sino también vuestra creatividad, vuestra competencia digital y vuestra capacidad para comunicar ideas de forma clara y visual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779816706214-1y2vs2ncm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Calendario de sesiones</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Calendario de sesiones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779816706214-1y2vs2ncm</odePageId>
+      <odeBlockId>block-1779816971829-okelb5o8x</odeBlockId>
+      <blockName>Línea temporal de sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779816706214-1y2vs2ncm</odePageId>
+          <odeBlockId>block-1779816971829-okelb5o8x</odeBlockId>
+          <odeIdeviceId>idevice-1779816971816-4iifu5u51</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estimados estudiantes:</p>
+<p>Espero que estéis todos bien.</p>
+<p>Me complace compartir con vosotros la creación de la <span style="text-decoration: underline;"><strong>línea temporal</strong></span> con el cronograma de nuestras próximas sesiones y actividades para ayudaros a organizarnos mejor de cara a esta nueva situación de aprendizaje. Podéis encontrar la línea temporal en este <a href="https://www.canva.com/design/DAHIsp__Z1E/2OwykOD58Z0Wti1sB3YUTA/edit" title="Línea temporal sesiones">enlace</a>.</p>
+<p>La línea temporal incluye la siguiente información:</p>
+<p><span style="text-decoration: underline;"><strong>Cronograma de sesiones</strong></span>: Orden cronológico de las sesiones.</p>
+<p><span style="text-decoration: underline;"><strong>Tareas para cada sesión</strong></span>: Una lista detallada de las tareas que realizaremos en cada sesión para prepararlos para el producto final.</p>
+<p><span style="text-decoration: underline;"><strong>Detalles de colaboración</strong></span>: Información sobre cuántos estudiantes trabajarán juntos en cada sesión.</p>
+<p><span style="text-decoration: underline;"><strong>Herramientas y recursos</strong></span>: Una lista de las herramientas y recursos que necesitarán para cada tarea.</p>
+<p>Os pido que dediquéis un tiempo a revisar la línea temporal para familiarizaros con nuestro plan. Esto nos ayudará a mantenernos organizados y aprovechar al máximo nuestro tiempo juntos.</p>
+<p>Si tenéis alguna pregunta o necesitáis alguna aclaración, no dudéis en contactarme.</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Infografía Línea Temporal</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/Infografia Proceso Pasos Creativa Multicolor (1).pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779816971816-4iifu5u51","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estimados estudiantes:</p>\n<p>Espero que estéis todos bien.</p>\n<p>Me complace compartir con vosotros la creación de la <span style=\"text-decoration: underline;\"><strong>línea temporal</strong></span> con el cronograma de nuestras próximas sesiones y actividades para ayudaros a organizarnos mejor de cara a esta nueva situación de aprendizaje. Podéis encontrar la línea temporal en este <a href=\"https://www.canva.com/design/DAHIsp__Z1E/2OwykOD58Z0Wti1sB3YUTA/edit\" title=\"Línea temporal sesiones\">enlace</a>.</p>\n<p>La línea temporal incluye la siguiente información:</p>\n<p><span style=\"text-decoration: underline;\"><strong>Cronograma de sesiones</strong></span>: Orden cronológico de las sesiones.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Tareas para cada sesión</strong></span>: Una lista detallada de las tareas que realizaremos en cada sesión para prepararlos para el producto final.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Detalles de colaboración</strong></span>: Información sobre cuántos estudiantes trabajarán juntos en cada sesión.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Herramientas y recursos</strong></span>: Una lista de las herramientas y recursos que necesitarán para cada tarea.</p>\n<p>Os pido que dediquéis un tiempo a revisar la línea temporal para familiarizaros con nuestro plan. Esto nos ayudará a mantenernos organizados y aprovechar al máximo nuestro tiempo juntos.</p>\n<p>Si tenéis alguna pregunta o necesitáis alguna aclaración, no dudéis en contactarme.</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Infografía Línea Temporal</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Infografia Proceso Pasos Creativa Multicolor (1).pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779822826152-39bk98by5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Material de ayuda: recursos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material de ayuda: recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779822826152-39bk98by5</odePageId>
+      <odeBlockId>block-1779989969731-nj74pt82t</odeBlockId>
+      <blockName>¿Qué incluimos como material de ayuda?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779822826152-39bk98by5</odePageId>
+          <odeBlockId>block-1779989969731-nj74pt82t</odeBlockId>
+          <odeIdeviceId>idevice-1779989969727-apvakvznt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. <span style="text-decoration: underline;"><strong>Herramientas</strong></span> y <span style="text-decoration: underline;"><strong>tutoriales</strong></span>: se utilizan para repasar y revisar los contenidos de la Situación de Aprendizaje.</p>
+<p>2. <span style="text-decoration: underline;"><strong>Licencia</strong></span> y <span style="text-decoration: underline;"><strong>seguridad</strong></span>: relacionado con la seguridad digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779989969727-apvakvznt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. <span style=\"text-decoration: underline;\"><strong>Herramientas</strong></span> y <span style=\"text-decoration: underline;\"><strong>tutoriales</strong></span>: se utilizan para repasar y revisar los contenidos de la Situación de Aprendizaje.</p>\n<p>2. <span style=\"text-decoration: underline;\"><strong>Licencia</strong></span> y <span style=\"text-decoration: underline;\"><strong>seguridad</strong></span>: relacionado con la seguridad digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779823709840-nb2ba8pgd</odePageId>
+  <odeParentPageId>page-1779822826152-39bk98by5</odeParentPageId>
+  <pageName>Herramientas y tutoriales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas y tutoriales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779823709840-nb2ba8pgd</odePageId>
+      <odeBlockId>block-1779823714423-zgvk57lfo</odeBlockId>
+      <blockName>Tutoriales para la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779823709840-nb2ba8pgd</odePageId>
+          <odeBlockId>block-1779823714423-zgvk57lfo</odeBlockId>
+          <odeIdeviceId>idevice-1779823714421-bi9inx7yw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estimados estudiantes,</p>
+<p>En este apartado podéis encontrar una serie de <span style="text-decoration: underline;"><strong>vídeos</strong></span> que seguro os serán de ayuda a la hora de resolver cualquier duda que tengáis a lo largo de esta situación de aprendizaje.</p>
+<p>Estos vídeos están <span style="text-decoration: underline;"><strong>organizados</strong></span> de forma <strong><span style="text-decoration: underline;">cronológica</span></strong>, es decir, los primeros vídeos sirven para explicar los primeros conceptos que veamos en las primeras sesiones, y así sucesivamente. Para eso he creado un <span style="text-decoration: underline;"><strong>Padlet</strong></span>, que es una aplicación que recoge la información de forma <span style="text-decoration: underline;"><strong>detallada</strong></span> y organizada, para que podáis <span style="text-decoration: underline;"><strong>repasar</strong></span> y <span style="text-decoration: underline;"><strong>revisar</strong></span> en todo momento las explicaciones que se irán haciendo a lo largo de las sesiones.</p>
+<p>Podéis encontrar el Padlet con las explicaciones y vídeos tutoriales <a href="https://padlet.com/mmongon475/explorando-areas-y-volumenes-ey9vtte3m3klzqwe" title="Padlet organización situación">aquí</a>.</p>
+<p>Por otra parte, comparto también una serie de <span style="text-decoration: underline;" title="Curación de contenido - Profesorado"><strong>indicaciones</strong></span>, que serán de utilidad para el resto de <span style="text-decoration: underline;"><strong>profesorado</strong></span> de la materia que quiera implementar esta situación de aprendizaje en sus aulas. En el siguiente <a href="https://www.diigo.com/outliner/ocp7mp/Curaci%C3%B3n-de-contenido---Gesti%C3%B3n-de-mi-aula?key=nwsfi1630t" title="Curación de contenido - Profesorado">enlace</a> podéis encontrar estas indicaciones para la gestión del aula.</p>
+<p>Sigo a vuestra disposición.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779823714421-bi9inx7yw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estimados estudiantes,</p>\n<p>En este apartado podéis encontrar una serie de <span style=\"text-decoration: underline;\"><strong>vídeos</strong></span> que seguro os serán de ayuda a la hora de resolver cualquier duda que tengáis a lo largo de esta situación de aprendizaje.</p>\n<p>Estos vídeos están <span style=\"text-decoration: underline;\"><strong>organizados</strong></span> de forma <strong><span style=\"text-decoration: underline;\">cronológica</span></strong>, es decir, los primeros vídeos sirven para explicar los primeros conceptos que veamos en las primeras sesiones, y así sucesivamente. Para eso he creado un <span style=\"text-decoration: underline;\"><strong>Padlet</strong></span>, que es una aplicación que recoge la información de forma <span style=\"text-decoration: underline;\"><strong>detallada</strong></span> y organizada, para que podáis <span style=\"text-decoration: underline;\"><strong>repasar</strong></span> y <span style=\"text-decoration: underline;\"><strong>revisar</strong></span> en todo momento las explicaciones que se irán haciendo a lo largo de las sesiones.</p>\n<p>Podéis encontrar el Padlet con las explicaciones y vídeos tutoriales <a href=\"https://padlet.com/mmongon475/explorando-areas-y-volumenes-ey9vtte3m3klzqwe\" title=\"Padlet organización situación\">aquí</a>.</p>\n<p>Por otra parte, comparto también una serie de <span style=\"text-decoration: underline;\" title=\"Curación de contenido - Profesorado\"><strong>indicaciones</strong></span>, que serán de utilidad para el resto de <span style=\"text-decoration: underline;\"><strong>profesorado</strong></span> de la materia que quiera implementar esta situación de aprendizaje en sus aulas. En el siguiente <a href=\"https://www.diigo.com/outliner/ocp7mp/Curaci%C3%B3n-de-contenido---Gesti%C3%B3n-de-mi-aula?key=nwsfi1630t\" title=\"Curación de contenido - Profesorado\">enlace</a> podéis encontrar estas indicaciones para la gestión del aula.</p>\n<p>Sigo a vuestra disposición.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779822993378-3g2immw7a</odePageId>
+  <odeParentPageId>page-1779822826152-39bk98by5</odeParentPageId>
+  <pageName>Licencias y seguridad</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779822993378-3g2immw7a</odePageId>
+      <odeBlockId>block-1779822996699-m4200w9ll</odeBlockId>
+      <blockName>Licencias: producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779822993378-3g2immw7a</odePageId>
+          <odeBlockId>block-1779822996699-m4200w9ll</odeBlockId>
+          <odeIdeviceId>idevice-1779822996695-o2zrxoccn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estimados estudiantes, </p>
+<p>Espero que estéis todos bien.</p>
+<p>Antes de elaborar la presentación final en <span style="text-decoration: underline;"><strong>Genially</strong></span>, es importante que conozcáis algunas <span style="text-decoration: underline;"><strong>normas básicas</strong></span> de <span style="text-decoration: underline;"><strong>seguridad digital</strong></span> y <span style="text-decoration: underline;"><strong>uso responsable</strong></span> de la información.</p>
+<p>Durante esta <strong title="Infografía licencia y seguridad"><span style="text-decoration: underline;">situación de aprendizaje</span></strong> deberéis proteger vuestros datos personales, utilizar contraseñas seguras y respetar las normas de uso de los ordenadores del centro y las plataformas digitales que vayáis a utilizar. </p>
+<p>Para facilitaros este proceso, disponéis de una <span style="text-decoration: underline;" title="Infografía licencia y seguridad"><strong>infografía</strong></span> que he creado con las principales recomendaciones y aspectos que debéis tener en cuenta durante la realización de vuestro proyecto. Podéis encontrarlas en este <a href="https://www.canva.com/design/DAHH8mVJdDI/E4mCXmyE11Y_qeRDEt8MeQ/view?utm_content=DAHH8mVJdDI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=he8310f9754" title="Infografía licencia y seguridad">enlace</a>.</p>
+<p>No dudéis en preguntarme si tenéis cualquier duda, estoy a vuestra disposición.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779822996695-o2zrxoccn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estimados estudiantes, </p>\n<p>Espero que estéis todos bien.</p>\n<p>Antes de elaborar la presentación final en <span style=\"text-decoration: underline;\"><strong>Genially</strong></span>, es importante que conozcáis algunas <span style=\"text-decoration: underline;\"><strong>normas básicas</strong></span> de <span style=\"text-decoration: underline;\"><strong>seguridad digital</strong></span> y <span style=\"text-decoration: underline;\"><strong>uso responsable</strong></span> de la información.</p>\n<p>Durante esta <strong title=\"Infografía licencia y seguridad\"><span style=\"text-decoration: underline;\">situación de aprendizaje</span></strong> deberéis proteger vuestros datos personales, utilizar contraseñas seguras y respetar las normas de uso de los ordenadores del centro y las plataformas digitales que vayáis a utilizar. </p>\n<p>Para facilitaros este proceso, disponéis de una <span style=\"text-decoration: underline;\" title=\"Infografía licencia y seguridad\"><strong>infografía</strong></span> que he creado con las principales recomendaciones y aspectos que debéis tener en cuenta durante la realización de vuestro proyecto. Podéis encontrarlas en este <a href=\"https://www.canva.com/design/DAHH8mVJdDI/E4mCXmyE11Y_qeRDEt8MeQ/view?utm_content=DAHH8mVJdDI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=he8310f9754\" title=\"Infografía licencia y seguridad\">enlace</a>.</p>\n<p>No dudéis en preguntarme si tenéis cualquier duda, estoy a vuestra disposición.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779814756066-y9dkugvcc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779814756066-y9dkugvcc</odePageId>
+      <odeBlockId>block-1779815245135-pisbzumcb</odeBlockId>
+      <blockName>¿Qué incluye esta guía?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779814756066-y9dkugvcc</odePageId>
+          <odeBlockId>block-1779815245135-pisbzumcb</odeBlockId>
+          <odeIdeviceId>idevice-1779815245126-ddq4e4cms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. <span style="text-decoration: underline;" title="Descripción de la situación de aprendizaje"><strong>Descripción del proyecto</strong></span> con información acerca del <span style="text-decoration: underline;">centro de interés</span>, el <span style="text-decoration: underline;">nivel</span> al que va dirigido, lo que se pretende que el alumnado <span style="text-decoration: underline;">aprenda</span> o <span style="text-decoration: underline;">trabaje</span> y la <span style="text-decoration: underline;">justificación</span> del proyecto. También la pueden encontrar en este <a href="https://docs.google.com/presentation/d/1rUFXUKGUu0y60Kp0jYuUdcpZCApKcCTWMaj3340_DzQ/edit?slide=id.g742e3e7cd_1_16#slide=id.g742e3e7cd_1_16" title="Descripción de la situación de aprendizaje">enlace</a>.</p>
+<p><br title="Asociamos tareas con criterios de evaluación" />2. <span style="text-decoration: underline;"><strong>Asociación de las tareas a criterios de evaluación</strong></span> de la materia implicada así como al tipo de agrupamiento, al número de sesiones que se le dedicarán y las herramientas que el alumnado utilizarán en cada una. La pueden encontrar en este <a href="https://docs.google.com/document/d/1o5J0a40eNikuW-id669rMNdBad6NtH0h2Lwi2hbG1uE/edit?tab=t.0" title="Asociamos tareas con criterios de evaluación">enlace</a> .</p>
+<p><br />3. <span style="text-decoration: underline;"><strong>Reflexión sobre la evaluación</strong></span> que incluye los <span style="text-decoration: underline;">instrumentos</span> que se van a utilizar, <span style="text-decoration: underline;">cómo</span> y <span style="text-decoration: underline;">cuándo</span> se usarán, <span style="text-decoration: underline;">qué</span> evaluarán, <span style="text-decoration: underline;">para qué</span> pueden servir dichos datos más allá de la calificación y el enlace a los instrumentos de evaluación diseñados para esta situación de aprendizaje. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779815245126-ddq4e4cms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. <span style=\"text-decoration: underline;\" title=\"Descripción de la situación de aprendizaje\"><strong>Descripción del proyecto</strong></span> con información acerca del <span style=\"text-decoration: underline;\">centro de interés</span>, el <span style=\"text-decoration: underline;\">nivel</span> al que va dirigido, lo que se pretende que el alumnado <span style=\"text-decoration: underline;\">aprenda</span> o <span style=\"text-decoration: underline;\">trabaje</span> y la <span style=\"text-decoration: underline;\">justificación</span> del proyecto. También la pueden encontrar en este <a href=\"https://docs.google.com/presentation/d/1rUFXUKGUu0y60Kp0jYuUdcpZCApKcCTWMaj3340_DzQ/edit?slide=id.g742e3e7cd_1_16#slide=id.g742e3e7cd_1_16\" title=\"Descripción de la situación de aprendizaje\">enlace</a>.</p>\n<p><br title=\"Asociamos tareas con criterios de evaluación\" />2. <span style=\"text-decoration: underline;\"><strong>Asociación de las tareas a criterios de evaluación</strong></span> de la materia implicada así como al tipo de agrupamiento, al número de sesiones que se le dedicarán y las herramientas que el alumnado utilizarán en cada una. La pueden encontrar en este <a href=\"https://docs.google.com/document/d/1o5J0a40eNikuW-id669rMNdBad6NtH0h2Lwi2hbG1uE/edit?tab=t.0\" title=\"Asociamos tareas con criterios de evaluación\">enlace</a> .</p>\n<p><br />3. <span style=\"text-decoration: underline;\"><strong>Reflexión sobre la evaluación</strong></span> que incluye los <span style=\"text-decoration: underline;\">instrumentos</span> que se van a utilizar, <span style=\"text-decoration: underline;\">cómo</span> y <span style=\"text-decoration: underline;\">cuándo</span> se usarán, <span style=\"text-decoration: underline;\">qué</span> evaluarán, <span style=\"text-decoration: underline;\">para qué</span> pueden servir dichos datos más allá de la calificación y el enlace a los instrumentos de evaluación diseñados para esta situación de aprendizaje. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+  <odeParentPageId>page-1779814756066-y9dkugvcc</odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+      <odeBlockId>block-1779881131251-6ufdkunqx</odeBlockId>
+      <blockName>Centro de interés</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+          <odeBlockId>block-1779881131251-6ufdkunqx</odeBlockId>
+          <odeIdeviceId>idevice-1779881131247-hhjebiiof</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje, titulada <span style="text-decoration: underline;"><strong>“Explorando áreas y volúmenes de poliedros con Geogebra”</strong></span> , se realizará para el curso de 2º de ESO de Matemáticas.</p>
+<p>El <span style="text-decoration: underline;"><strong>producto final </strong></span>de esta situación de aprendizaje es que el alumnado realice una presentación en <span style="text-decoration: underline;"><strong>Genially</strong></span>. En esta presentación, que se realizará en grupos pequeños de 3 o 4 alumnos/as, los estudiantes deberán explicar los tipos de poliedros (prisma, pirámide, cono, cilindro, esfera), relacionar estas figuras geométricas con objetos que aparecen en la vida real y en su realidad cotidiana, y realizar el diseño de un objeto geométrico, a partir del cual calcularán su área y su volumen utilizando sus medidas exactas.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779881131247-hhjebiiof","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje, titulada <span style=\"text-decoration: underline;\"><strong>“Explorando áreas y volúmenes de poliedros con Geogebra”</strong></span> , se realizará para el curso de 2º de ESO de Matemáticas.</p>\n<p>El <span style=\"text-decoration: underline;\"><strong>producto final </strong></span>de esta situación de aprendizaje es que el alumnado realice una presentación en <span style=\"text-decoration: underline;\"><strong>Genially</strong></span>. En esta presentación, que se realizará en grupos pequeños de 3 o 4 alumnos/as, los estudiantes deberán explicar los tipos de poliedros (prisma, pirámide, cono, cilindro, esfera), relacionar estas figuras geométricas con objetos que aparecen en la vida real y en su realidad cotidiana, y realizar el diseño de un objeto geométrico, a partir del cual calcularán su área y su volumen utilizando sus medidas exactas.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+      <odeBlockId>block-1779881289889-3lh5lkl1x</odeBlockId>
+      <blockName>Nivel al que va dirigido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+          <odeBlockId>block-1779881289889-3lh5lkl1x</odeBlockId>
+          <odeIdeviceId>idevice-1779881289887-79sa0hywg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>2º ESO</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779881289887-79sa0hywg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>2º ESO</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+      <odeBlockId>block-1779881417031-ajt508y4z</odeBlockId>
+      <blockName>¿Qué se pretende que el alumnado aprenda o trabaje?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+          <odeBlockId>block-1779881417031-ajt508y4z</odeBlockId>
+          <odeIdeviceId>idevice-1779881417030-khq8i6ive</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con esta Situación de Aprendizaje, se pretende que el alumnado aprenda a calcular <strong>áreas</strong> y <strong>volúmenes</strong> de poliedros y cuerpos de revolución, además de aprender a utilizar <strong>Geogebra</strong>.</p>
+<p>El alumnado aprenderá a <span style="text-decoration: underline;"><strong>identificar</strong></span> y <span style="text-decoration: underline;"><strong>clasificar</strong></span> cuerpos geométricos presentes en la vida cotidiana y a <span style="text-decoration: underline;"><strong>representar</strong></span> estos cuerpos utilizando la herramienta de <span style="text-decoration: underline;"><strong>GeoGebra</strong></span>. Además, se fomenta el desarrollo de la <span style="text-decoration: underline;"><strong>competencia digital</strong></span> a través de la creación de la presentación en Genially, promoviendo un uso responsable y seguro de la tecnología. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779881417030-khq8i6ive","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta Situación de Aprendizaje, se pretende que el alumnado aprenda a calcular <strong>áreas</strong> y <strong>volúmenes</strong> de poliedros y cuerpos de revolución, además de aprender a utilizar <strong>Geogebra</strong>.</p>\n<p>El alumnado aprenderá a <span style=\"text-decoration: underline;\"><strong>identificar</strong></span> y <span style=\"text-decoration: underline;\"><strong>clasificar</strong></span> cuerpos geométricos presentes en la vida cotidiana y a <span style=\"text-decoration: underline;\"><strong>representar</strong></span> estos cuerpos utilizando la herramienta de <span style=\"text-decoration: underline;\"><strong>GeoGebra</strong></span>. Además, se fomenta el desarrollo de la <span style=\"text-decoration: underline;\"><strong>competencia digital</strong></span> a través de la creación de la presentación en Genially, promoviendo un uso responsable y seguro de la tecnología. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+      <odeBlockId>block-1779881445064-w5gn5ej40</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779816099447-kdpv43lxd</odePageId>
+          <odeBlockId>block-1779881445064-w5gn5ej40</odeBlockId>
+          <odeIdeviceId>idevice-1779881445063-03lhsvxwk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El uso de <span style="text-decoration: underline;"><strong>GeoGebra </strong></span>en 2º de ESO resulta especialmente adecuado, ya que el alumnado necesita <span style="text-decoration: underline;"><strong>apoyos visuales</strong></span> para comprender los conceptos geométricos relacionados con los poliedros y los cuerpos de revolución, es decir, con los prismas, las pirámides, los cilindros y los conos.</p>
+<p>Esta herramienta permite <strong><span style="text-decoration: underline;">manipular</span></strong> los <span style="text-decoration: underline;"><strong>cuerpos geométricos</strong></span> en 3D, facilitando la comprensión de áreas y volúmenes más allá de la simple memorización de fórmulas. Además, fomenta un aprendizaje activo, donde el alumnado <span style="text-decoration: underline;"><strong>experimenta</strong></span> y observa <span style="text-decoration: underline;"><strong>cambios</strong></span> en tiempo real. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779881445063-03lhsvxwk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El uso de <span style=\"text-decoration: underline;\"><strong>GeoGebra </strong></span>en 2º de ESO resulta especialmente adecuado, ya que el alumnado necesita <span style=\"text-decoration: underline;\"><strong>apoyos visuales</strong></span> para comprender los conceptos geométricos relacionados con los poliedros y los cuerpos de revolución, es decir, con los prismas, las pirámides, los cilindros y los conos.</p>\n<p>Esta herramienta permite <strong><span style=\"text-decoration: underline;\">manipular</span></strong> los <span style=\"text-decoration: underline;\"><strong>cuerpos geométricos</strong></span> en 3D, facilitando la comprensión de áreas y volúmenes más allá de la simple memorización de fórmulas. Además, fomenta un aprendizaje activo, donde el alumnado <span style=\"text-decoration: underline;\"><strong>experimenta</strong></span> y observa <span style=\"text-decoration: underline;\"><strong>cambios</strong></span> en tiempo real. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779816126782-4mxyr92kz</odePageId>
+  <odeParentPageId>page-1779814756066-y9dkugvcc</odeParentPageId>
+  <pageName>Tareas y sus criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y sus criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779816126782-4mxyr92kz</odePageId>
+      <odeBlockId>block-1779882870188-dr9b2mt40</odeBlockId>
+      <blockName>Tareas-Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779816126782-4mxyr92kz</odePageId>
+          <odeBlockId>block-1779882870188-dr9b2mt40</odeBlockId>
+          <odeIdeviceId>idevice-1779882870187-naaxedtrz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de esta Situación de Aprendizaje, cada una de las tareas que se proponen contribuye al desarrollo de diferentes <span style="text-decoration: underline;"><strong>competencias</strong></span> y aprendizajes matemáticos. Relacionado con los <span style="text-decoration: underline;"><strong>saberes básicos</strong></span>, se trabaja sobre todo el bloque de <strong><span style="text-decoration: underline;">geometría</span></strong>.</p>
+<p>El documento que se muestra a continuación relaciona, pues, las actividades que se realizarán a lo largo de la Situación con los <span style="text-decoration: underline;"><strong>criterios de evaluación</strong></span> que se evaluarán en cada una de ellas. Esta organización permite comprobar de forma clara cómo se evalúa el <span style="text-decoration: underline;"><strong>progreso</strong></span> del alumnado. </p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Tareas y Criterios de evaluación</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779882870187-naaxedtrz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de esta Situación de Aprendizaje, cada una de las tareas que se proponen contribuye al desarrollo de diferentes <span style=\"text-decoration: underline;\"><strong>competencias</strong></span> y aprendizajes matemáticos. Relacionado con los <span style=\"text-decoration: underline;\"><strong>saberes básicos</strong></span>, se trabaja sobre todo el bloque de <strong><span style=\"text-decoration: underline;\">geometría</span></strong>.</p>\n<p>El documento que se muestra a continuación relaciona, pues, las actividades que se realizarán a lo largo de la Situación con los <span style=\"text-decoration: underline;\"><strong>criterios de evaluación</strong></span> que se evaluarán en cada una de ellas. Esta organización permite comprobar de forma clara cómo se evalúa el <span style=\"text-decoration: underline;\"><strong>progreso</strong></span> del alumnado. </p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Tareas y Criterios de evaluación</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779816638373-nwgp7dcdx</odePageId>
+  <odeParentPageId>page-1779814756066-y9dkugvcc</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779816638373-nwgp7dcdx</odePageId>
+      <odeBlockId>block-1779986416159-g3mi3b1cp</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779816638373-nwgp7dcdx</odePageId>
+          <odeBlockId>block-1779986416159-g3mi3b1cp</odeBlockId>
+          <odeIdeviceId>idevice-1779986416153-i8pta0l7l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <span style="text-decoration: underline;" title="Cuestionario Poliedros"><strong>primer</strong></span> instrumento de evaluación que voy a utilizar en esta situación de aprendizaje es un <span style="text-decoration: underline;"><strong>cuestionario</strong></span>. Este cuestionario se usará en la segunda tarea de <span style="text-decoration: underline;"><strong>“Flipped Classroom”.</strong></span> A través de este <a href="https://docs.google.com/forms/d/1ze7AHI_vjoThNTOTYO3Ze-H8UXtfwDOjtHl0ELKyf-g/edit" title="Cuestionario Poliedros">cuestionario</a> se evaluará principalmente la comprensión de los conceptos sobre poliedros y cuerpos de revolución y la capacidad del alumnado para clasificar cuerpos geométricos y relacionar las matemáticas con objetos cotidianos.</p>
+<p><br />Este instrumento de evaluación nos permitirá <span style="text-decoration: underline;"><strong>detectar</strong></span> ideas previas que sean erróneas, dificultades de visualización espacial, una comprensión insuficiente de los vídeos propuestos o necesidades de refuerzo antes de continuar con las tareas prácticas en GeoGebra. Además, teniendo en cuenta los aspectos principales del <span style="text-decoration: underline;"><strong>DUA,</strong></span> y teniendo en cuenta los <strong><span style="text-decoration: underline;">distintos ritmos de aprendizaje</span></strong> del alumnado, existirá la posibilidad de visualizar los vídeos las veces que sea necesario y se facilitará el acceso al cuestionario durante un periodo <span style="text-decoration: underline;"><strong>flexible</strong></span> de tiempo.</p>
+<p><br /></p>
+<p>El <span style="text-decoration: underline;"><strong>segundo</strong></span> instrumento de evaluación que se utilizará en esta situación se trata de una <span style="text-decoration: underline;"><strong>rúbrica</strong></span> para evaluar la presentación en <span style="text-decoration: underline;"><strong>Genially</strong></span> sobre el diseño de un poliedro/cuerpo de revolución, y se realizará para evaluar el <span style="text-decoration: underline;"><strong>producto final</strong></span>, es decir, al final de la situación de aprendizaje.</p>
+<p>Mediante esta rúbrica se evaluará el grado de adquisición de los aprendizajes desarrollados a lo largo de la situación de aprendizaje, especialmente en relación con la construcción del poliedro/cuerpo de revolución, el cálculo de áreas y volúmenes y la capacidad para justificar procedimientos matemáticos. Véase la rúbrica a continuación:</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Rúbrica producto final</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/Rúbrica para evaluar el producto final.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a></span></figcaption>
+</figure>
+<p>Por último, para tratar las posibles <span style="text-decoration: underline;"><strong>dificultades</strong></span> que puedan surgir en el aula, se propondrán <span style="text-decoration: underline;"><strong>tutoriales guiados</strong></span> tanto de Geogebra como de Genially, ejemplos previos y un apoyo progresivo y continuado por parte del profesorado. En cuanto a los aspectos metodológicos del <span style="text-decoration: underline;"><strong>Diseño Universal del Aprendizaje</strong></span>, teniendo en cuenta las diferencias del nivel o el distinto ritmo de trabajo del alumnado, se les proporcionará apoyos visuales en todo momento, la rúbrica será conocida desde el principio y las instrucciones para realizar las tareas y el proyecto serán claras, precisas y secuenciadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779986416153-i8pta0l7l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <span style=\"text-decoration: underline;\" title=\"Cuestionario Poliedros\"><strong>primer</strong></span> instrumento de evaluación que voy a utilizar en esta situación de aprendizaje es un <span style=\"text-decoration: underline;\"><strong>cuestionario</strong></span>. Este cuestionario se usará en la segunda tarea de <span style=\"text-decoration: underline;\"><strong>“Flipped Classroom”.</strong></span> A través de este <a href=\"https://docs.google.com/forms/d/1ze7AHI_vjoThNTOTYO3Ze-H8UXtfwDOjtHl0ELKyf-g/edit\" title=\"Cuestionario Poliedros\">cuestionario</a> se evaluará principalmente la comprensión de los conceptos sobre poliedros y cuerpos de revolución y la capacidad del alumnado para clasificar cuerpos geométricos y relacionar las matemáticas con objetos cotidianos.</p>\n<p><br />Este instrumento de evaluación nos permitirá <span style=\"text-decoration: underline;\"><strong>detectar</strong></span> ideas previas que sean erróneas, dificultades de visualización espacial, una comprensión insuficiente de los vídeos propuestos o necesidades de refuerzo antes de continuar con las tareas prácticas en GeoGebra. Además, teniendo en cuenta los aspectos principales del <span style=\"text-decoration: underline;\"><strong>DUA,</strong></span> y teniendo en cuenta los <strong><span style=\"text-decoration: underline;\">distintos ritmos de aprendizaje</span></strong> del alumnado, existirá la posibilidad de visualizar los vídeos las veces que sea necesario y se facilitará el acceso al cuestionario durante un periodo <span style=\"text-decoration: underline;\"><strong>flexible</strong></span> de tiempo.</p>\n<p><br /></p>\n<p>El <span style=\"text-decoration: underline;\"><strong>segundo</strong></span> instrumento de evaluación que se utilizará en esta situación se trata de una <span style=\"text-decoration: underline;\"><strong>rúbrica</strong></span> para evaluar la presentación en <span style=\"text-decoration: underline;\"><strong>Genially</strong></span> sobre el diseño de un poliedro/cuerpo de revolución, y se realizará para evaluar el <span style=\"text-decoration: underline;\"><strong>producto final</strong></span>, es decir, al final de la situación de aprendizaje.</p>\n<p>Mediante esta rúbrica se evaluará el grado de adquisición de los aprendizajes desarrollados a lo largo de la situación de aprendizaje, especialmente en relación con la construcción del poliedro/cuerpo de revolución, el cálculo de áreas y volúmenes y la capacidad para justificar procedimientos matemáticos. Véase la rúbrica a continuación:</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Rúbrica producto final</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Rúbrica para evaluar el producto final.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a></span></figcaption>\n</figure>\n<p>Por último, para tratar las posibles <span style=\"text-decoration: underline;\"><strong>dificultades</strong></span> que puedan surgir en el aula, se propondrán <span style=\"text-decoration: underline;\"><strong>tutoriales guiados</strong></span> tanto de Geogebra como de Genially, ejemplos previos y un apoyo progresivo y continuado por parte del profesorado. En cuanto a los aspectos metodológicos del <span style=\"text-decoration: underline;\"><strong>Diseño Universal del Aprendizaje</strong></span>, teniendo en cuenta las diferencias del nivel o el distinto ritmo de trabajo del alumnado, se les proporcionará apoyos visuales en todo momento, la rúbrica será conocida desde el principio y las instrucciones para realizar las tareas y el proyecto serán claras, precisas y secuenciadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779824629127-05t7das2b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779824629127-05t7das2b</odePageId>
+      <odeBlockId>block-1779824631913-rs13uiww2</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779824629127-05t7das2b</odePageId>
+          <odeBlockId>block-1779824631913-rs13uiww2</odeBlockId>
+          <odeIdeviceId>idevice-1779824631911-pv5o55cy3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Explorando áreas y volúmenes de poliedros con Geogebra</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El proyecto se centra en la introducción de la geometría espacial en 2º de ESO, concretamente en el cálculo de áreas y volúmenes de poliedros. Se abordará desde un enfoque práctico y visual mediante el uso de herramientas digitales como Geogebra.
+</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Manuel Jesús Montero González - Profesor de Matemáticas de Secundaria </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
